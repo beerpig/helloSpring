@@ -5,4 +5,4 @@ status取值：
 * DOWN：遇到问题
 * OUT_OF_SERVICE：资源未在使用，或者不该去使用
 * UNKNOWN：不知道
-* branch1 1st commit synchronize remote/branch1
+* branch1 2nd commit synchronize remote/branch1

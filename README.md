@@ -5,4 +5,3 @@ status取值：
 * DOWN：遇到问题
 * OUT_OF_SERVICE：资源未在使用，或者不该去使用
 * UNKNOWN：不知道
-pull

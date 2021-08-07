@@ -6,3 +6,4 @@ status取值：
 * OUT_OF_SERVICE：资源未在使用，或者不该去使用
 * UNKNOWN：不知道
 * branch1 2nd commit synchronize remote/branch1
+* branch1 commit 1
